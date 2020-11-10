@@ -1,10 +1,3 @@
-# 2017sp279
-
-
-# project
-My 1st repository
-
-
 Git commands
 ============
 
